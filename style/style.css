@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.home-section {
+  background-image: url(../images/peter-broomfield-m3m-lnR90uM-unsplash.jpg);
+  background-position: top left;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.gallery-image img {
+  height: 300px;
+  width: 100%;
+}
